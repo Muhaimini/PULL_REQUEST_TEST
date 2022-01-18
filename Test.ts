@@ -1,3 +1,7 @@
 const username: string = "Imin"
 
-console.log(username)
+const data = (params: string) : void => {
+    console.log(`Hi ${params}`)
+}
+
+data(username)
