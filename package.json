@@ -1,0 +1,11 @@
+{
+  "name": "git-pull-request-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.ts",
+  "scripts": {
+    "test": "npx ts-node Test.ts"
+  },
+  "author": "Imin",
+  "license": "MIT"
+}
